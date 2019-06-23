@@ -1,0 +1,1 @@
+# spring-boot-webflux-freemarker-mail-demo
